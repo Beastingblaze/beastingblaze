@@ -66,14 +66,5 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
 </div>
 
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/beastingblaze/beastingblaze/output/snake.svg" alt="Snake animation" />
-</div>
 
 ###
